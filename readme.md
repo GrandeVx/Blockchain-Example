@@ -15,10 +15,9 @@ This is an example of a blockchain. It is a chain of blocks, each of which conta
 
 ## Contribution
 
-    This is an Example based on the [Blockchain Tutorial](https://corsi.datamasters.it/products/blockchain-in-python).
+This is an Example based on the [Blockchain Tutorial](https://corsi.datamasters.it/products/blockchain-in-python).
 
     I have added the following features:
         - The chain is stored in a file.
         - the nodes are stored in a file.
         - if the nodes is offline, it was deleted.
-        
